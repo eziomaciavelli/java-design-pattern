@@ -1,4 +1,4 @@
-# Java Design Pattern
+# Design Patterns in Java
 
 Паттерны проектирования (шаблоны проектирования)
 
