@@ -1,7 +1,7 @@
-package pattern.structural_design_pattern.composite.editor;
+package pattern.structural_design_pattern.composite.example.editor;
 
-import pattern.structural_design_pattern.composite.shapes.CompoundShape;
-import pattern.structural_design_pattern.composite.shapes.Shape;
+import pattern.structural_design_pattern.composite.example.shapes.CompoundShape;
+import pattern.structural_design_pattern.composite.example.shapes.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

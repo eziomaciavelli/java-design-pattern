@@ -1,10 +1,10 @@
-package pattern.structural_design_pattern.composite;
+package pattern.structural_design_pattern.composite.example;
 
-import pattern.structural_design_pattern.composite.editor.ImageEditor;
-import pattern.structural_design_pattern.composite.shapes.Circle;
-import pattern.structural_design_pattern.composite.shapes.CompoundShape;
-import pattern.structural_design_pattern.composite.shapes.Dot;
-import pattern.structural_design_pattern.composite.shapes.Rectangle;
+import pattern.structural_design_pattern.composite.example.editor.ImageEditor;
+import pattern.structural_design_pattern.composite.example.shapes.Circle;
+import pattern.structural_design_pattern.composite.example.shapes.CompoundShape;
+import pattern.structural_design_pattern.composite.example.shapes.Dot;
+import pattern.structural_design_pattern.composite.example.shapes.Rectangle;
 
 import java.awt.*;
 

@@ -1,4 +1,4 @@
-package pattern.structural_design_pattern.composite.shapes;
+package pattern.structural_design_pattern.composite.example.shapes;
 
 import java.awt.*;
 
